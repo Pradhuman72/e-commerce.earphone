@@ -439,7 +439,9 @@ img {
     padding: .75rem;
     border-radius: .5rem;
     display: grid;
+    cursor: pointer;
 }
+
 
 .products__img {
     width: 80px;
