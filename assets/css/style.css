@@ -452,6 +452,15 @@ img {
     top: -3rem;
 }
 
+.products__img {
+    width: 80px;
+    position: absolute;
+    inset: 0;
+    margin-left: auto;
+    margin-right: auto;
+    top: -3rem;
+}
+
 .products__content {
     align-self: flex-end;
 }
